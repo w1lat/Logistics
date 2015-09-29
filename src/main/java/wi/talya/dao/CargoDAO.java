@@ -4,9 +4,7 @@ import wi.talya.model.Cargo;
 
 import java.util.List;
 
-/**
- * Created by Таня on 14.07.2015.
- */
+
 public interface CargoDAO {
 
     public Cargo addCargo(Cargo cargo);
