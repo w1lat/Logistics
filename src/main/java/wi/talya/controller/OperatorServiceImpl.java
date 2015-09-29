@@ -10,9 +10,7 @@ import wi.talya.model.WayBill;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by Таня on 15.07.2015.
- */
+
 public class OperatorServiceImpl implements OperatorService {
 
     private CargoDAO cargoDAO;
