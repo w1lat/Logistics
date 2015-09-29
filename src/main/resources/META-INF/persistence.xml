@@ -6,7 +6,7 @@
 
     <persistence-unit name="my_unit" transaction-type="RESOURCE_LOCAL">
         <description>
-            Persistence unit for the JPA tutorial of the Hibernate Getting Started Guide
+            Persistence unit for the JPA of the Hibernate
         </description>
 
         <provider>org.hibernate.ejb.HibernatePersistence</provider>
