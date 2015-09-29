@@ -8,9 +8,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 
-/**
- * Created by Таня on 02.06.2015.
- */
+
 @Entity
 @Table(name = "way_bills")
 public class WayBill extends GeneratedIdentifierEntity{
