@@ -4,9 +4,7 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Table;
 
-/**
- * Created by Таня on 02.06.2015.
- */
+
 @Entity
 @Table(name = "operators")
 public class Operator extends GeneratedIdentifierEntity{
