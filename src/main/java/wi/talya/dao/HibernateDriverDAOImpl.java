@@ -10,9 +10,7 @@ import javax.persistence.EntityTransaction;
 import javax.persistence.TypedQuery;
 import java.util.List;
 
-/**
- * Created by Таня on 23.07.2015.
- */
+
 public class HibernateDriverDAOImpl implements DriverDAO {
 
     private final static Logger LOG =  Logger.getLogger(CargoDAO.class);
