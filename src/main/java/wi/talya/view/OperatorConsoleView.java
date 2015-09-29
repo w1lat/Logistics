@@ -11,9 +11,7 @@ import wi.talya.model.WayBill;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * Created by Таня on 03.06.2015.
- */
+
 public class OperatorConsoleView implements View {
 
     private static final Logger LOG = Logger.getLogger(OperatorConsoleView.class);
