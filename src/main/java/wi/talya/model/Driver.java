@@ -3,9 +3,7 @@ package wi.talya.model;
 
 import javax.persistence.*;
 
-/**
- * Created by Таня on 02.06.2015.
- */
+
 
 @Entity
 @Table(name = "drivers")
